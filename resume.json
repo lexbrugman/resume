@@ -1,22 +1,21 @@
 {
   "meta": {
-    "theme": "elegant"
+    "theme": "stackoverflow-ibic"
   },
   "basics": {
     "name": "Lex Brugman",
-    "label": "Software Engineer",
+    "label": "Software Professional",
     "image": "https://avatars.githubusercontent.com/u/4648225?v=4",
     "summary": "A software professional with experience in all aspects of software product development, including:\n- Strong experience building highly scalable, distributed web applications\n- Leading development teams (hiring, coaching, mentoring)\n- A huge affinity for operations and network engineering, cloud infra (AWS, GCP)",
     "location": {
       "city": "Amsterdam",
-      "countryCode": "NL",
-      "region": "Noord Holland"
+      "countryCode": "NL"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "lexbrugman",
-        "url" :"https://www.linkedin.com/in/lexbrugman"
+        "url": "https://www.linkedin.com/in/lexbrugman"
       },
       {
         "network": "GitHub",
@@ -48,10 +47,10 @@
     {
       "highlights": [
         "Responsible for the development and operations of the WRTS platform",
-        "Presented Squla’s use of AWS as a customer success story at the AWS Summit, Amsterdam (2015), in the keynote address of Amazon’s CTO, Werner Vogels.",
+        "Presented Squla’s use of AWS as a customer success story at the AWS Summit, Amsterdam (2015), in the keynote address of Amazon’s CTO, Werner Vogels",
         "Ruby, Python, React.js, MySQL, Redis, ElasticSearch, GCP, AWS"
       ],
-      "summary": "Joined as a developer when Squla was an early-stage start-up in 2010. From being a trusted individual contributor, I have grown to lead small teams, to my current role as Head of Engineering for WRTS",
+      "summary": "Joined as a developer when Squla was an early-stage start-up in 2010. From being a trusted individual contributor, I have grown to lead small teams, to my current role as Head of Engineering for WRTS.",
       "name": "Futurewhiz",
       "position": "Head of Engineering - WRTS",
       "startDate": "2010-12-01"
@@ -136,11 +135,11 @@
   "languages": [
     {
       "language": "Dutch",
-      "fluency": "Native proficiency"
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Professional working proficiency"
+      "fluency": "Advanced"
     }
   ],
   "interests": [
