@@ -17,16 +17,9 @@ jobs:
       - name: Check out your repository using git
         uses: actions/checkout@v2
         
-      - name: Extract theme from resume.json
-        uses: sergeysova/jq-action@v2
-        id: theme
-        with:
-          cmd: 'jq .meta.theme resume.json -r'
-
       - name: Export resume.json as HTML and PDF 
         uses: lexbrugman/action-jsonresume-export@master
         with:
-          theme: ${{ steps.theme.outputs.value }}
           resume_filepath: resume.json
           output_filepath: docs/index
           
