@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Lex Brugman",
+    "label": "Software Engineer",
+    "image": "https://avatars.githubusercontent.com/u/4648225?v=4",
+    "summary": "A software professional with experience in all aspects of software product development, including:\n- Strong experience building highly scalable, distributed web applications\n- Leading development teams (hiring, coaching, mentoring)\n- A huge affinity for operations and network engineering, cloud infra (AWS, GCP)",
+    "location": {
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "region": "Noord Holland"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "lexbrugman",
+        "url" :"https://www.linkedin.com/in/lexbrugman"
+      },
+      {
+        "network": "GitHub",
+        "username": "lexbrugman",
+        "url": "https://github.com/lexbrugman"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "keywords": ["Ruby", "Python", "PHP", "Java", "MySQL", "Redis", "ElasticSearch"],
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "JavaScript",
+        "React.js",
+        "HTML",
+        "SCSS / Less / CSS"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["AWS", "GCP", "Linux", "Windows"],
+      "name": "Infrastructure"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Responsible for the development and operations of the WRTS platform",
+        "Presented Squla’s use of AWS as a customer success story at the AWS Summit, Amsterdam (2015), in the keynote address of Amazon’s CTO, Werner Vogels.",
+        "Ruby, Python, React.js, MySQL, Redis, ElasticSearch, GCP, AWS"
+      ],
+      "summary": "Joined as a developer when Squla was an early-stage start-up in 2010. From being a trusted individual contributor, I have grown to lead small teams, to my current role as Head of Engineering for WRTS",
+      "name": "Futurewhiz",
+      "position": "Head of Engineering - WRTS",
+      "startDate": "2010-12-01"
+    },
+    {
+      "highlights": [
+        "PHP, Java, MySQL, Redis, RouterOS, Unifi"
+      ],
+      "summary": "This job started as a hobby at around age 15, where I had developed an online CRM and inventory management application for my mother’s company. Over time, it has developed into its own business where the application is used by many other businesses around the country.",
+      "name": "Slim-IT",
+      "position": "Founder",
+      "startDate": "2003-01-01"
+    },
+    {
+      "highlights": [
+        "Developed a flexible UI widget system for the MyM data visualisation tool",
+        "PHP, C++, MySQL, AWS"
+      ],
+      "summary": "Internship as part of my Bachelor's studies",
+      "name": "Tizio B.V.",
+      "position": "Software Engineer",
+      "startDate": "2010-02-01",
+      "endDate": "2010-06-30"
+    },
+    {
+      "highlights": [
+        "Designed and implemented a budgeting tool for Software Asset Management",
+        "PHP, MySQL"
+      ],
+      "summary": "Summer job following my internship here",
+      "name": "National Aerospace Laboratory",
+      "position": "Software Engineer",
+      "startDate": "2009-07-02",
+      "endDate": "2009-08-15"
+    },
+    {
+      "highlights": [
+        "Designed and implemented an automated auditing tool for Software Asset Management",
+        "PHP, MySQL, MSSQL"
+      ],
+      "summary": "Internship as part of my Bachelor's studies",
+      "name": "National Aerospace Laboratory",
+      "position": "Software Engineer",
+      "startDate": "2008-08-02",
+      "endDate": "2009-01-01"
+    },
+    {
+      "highlights": [
+      ],
+      "summary": "Holiday/Part-time job",
+      "name": "MyCom",
+      "position": "Technician and Sales",
+      "startDate": "2006-06-01",
+      "endDate": "2008-08-01"
+    },
+    {
+      "highlights": [
+      ],
+      "summary": "Holiday/Part-time job",
+      "name": "HCT Computers",
+      "position": "Technician and Sales",
+      "startDate": "2004-06-01",
+      "endDate": "2006-01-31"
+    }
+  ],
+  "education": [
+    {
+      "startDate": "2006-09-04",
+      "endDate": "2010-07-10",
+      "area": "Software Engineering + System and Network Engineering",
+      "studyType": "Bachelors",
+      "institution": "Hogeschool van Amsterdam"
+    },
+    {
+      "startDate": "2001-08-27",
+      "endDate": "2006-07-22",
+      "area": "Natuur en Techniek",
+      "studyType": "HAVO",
+      "institution": "Keizer Karel College"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Movies"
+    },
+    {
+      "name": "Computers"
+    },
+    {
+      "name": "Cycling"
+    }
+  ]
+}
