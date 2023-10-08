@@ -59,7 +59,7 @@
         "AWS",
         "GCP",
         "Linux",
-        "Windows",
+        "Windows"
       ],
       "name": "Infrastructure"
     }
