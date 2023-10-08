@@ -26,20 +26,41 @@
   },
   "skills": [
     {
-      "keywords": ["Ruby", "Python", "PHP", "Java", "MySQL", "Redis", "ElasticSearch"],
-      "name": "Backend"
+      "keywords": [
+        "Analytical thinking",
+        "Problem solving",
+        "Attention to detail",
+        "Patience",
+        "Reliablility",
+        "Perseverence",
+        "Mentoring",
+        "Coaching"
+      ],
+      "name": "Competencies"
     },
     {
       "keywords": [
+        "Ruby",
+        "Python",
+        "PHP",
+        "Java",
+        "MySQL",
+        "Redis",
+        "ElasticSearch",
         "JavaScript",
         "React.js",
         "HTML",
         "SCSS / Less / CSS"
       ],
-      "name": "Frontend"
+      "name": "Technology"
     },
     {
-      "keywords": ["AWS", "GCP", "Linux", "Windows"],
+      "keywords": [
+        "AWS",
+        "GCP",
+        "Linux",
+        "Windows",
+      ],
       "name": "Infrastructure"
     }
   ],
