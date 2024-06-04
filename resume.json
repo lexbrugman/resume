@@ -67,6 +67,15 @@
   "work": [
     {
       "highlights": [
+        "Responsible for the engineering (development and qa) department at Agriplace"
+      ],
+      "summary": "",
+      "name": "Agriplace",
+      "position": "Head of Engineering",
+      "startDate": "2024-05-01"
+    },
+    {
+      "highlights": [
         "Responsible for the development and operations of the StudyGo platform",
         "Part of the StudyGo Management Team, jointly shaping the product roadmap",
         "In the role as people manager, reponsible for hiring, performance reviews and mentoring of the engineering team",
@@ -77,13 +86,14 @@
       "summary": "Joined as a developer when Squla was an early-stage start-up in 2010. From being a trusted individual contributor, I have grown to lead small teams, in Squla until 2019, to my current role as Head of Engineering for StudyGo.",
       "name": "Futurewhiz",
       "position": "Head of Engineering - StudyGo",
-      "startDate": "2010-12-01"
+      "startDate": "2010-12-01",
+      "endDate": "2024-04-30"
     },
     {
       "highlights": [
         "Responsible for all technology related decisions (choosing the tech stack, design, development, and operations)",
         "Jointly responsible for product roadmap",
-        "PHP, Java, MySQL, Redis, RouterOS, Unifi"
+        "PHP, Java, MySQL, Redis, RouterOS, UniFi"
       ],
       "summary": "This job started as a hobby at around age 15, where I had developed an online CRM and inventory management application for my mother’s company. Over time, it has developed into its own business where the application is used by many other businesses around the country.",
       "name": "Slim-IT",
