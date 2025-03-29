@@ -67,10 +67,15 @@
   "work": [
     {
       "highlights": [
-        "Responsible for the engineering (development and qa) department at Agriplace"
+        "Representing engineering in the management team",
+        "Managing 18 people across 4 teams. A combination of frontend, backend and QA engineers",
+        "Reponsible for hiring, performance reviews and mentoring of the engineering team",
+        "Owning the technology roadmap and architecture of the platform",
+        "Python, React.js, PostreSQL, Redis, AWS"
       ],
       "summary": "",
       "name": "Agriplace",
+      "url": "https://www.agriplace.com",
       "position": "Head of Engineering",
       "startDate": "2024-05-01"
     },
@@ -96,6 +101,7 @@
       ],
       "summary": "Joined as a developer when Squla was an early-stage start-up in 2010. From being a trusted individual contributor, I have grown to lead small teams, in Squla until 2019, to my current role as Head of Engineering for StudyGo.",
       "name": "Futurewhiz",
+      "url": "https://www.futurewhiz.com",
       "position": "Head of Engineering - StudyGo",
       "startDate": "2010-12-01",
       "endDate": "2024-04-30"
@@ -107,6 +113,7 @@
       ],
       "summary": "Internship as part of my Bachelor's studies",
       "name": "Tizio B.V.",
+      "url": "https://www.tizio.eu",
       "position": "Software Engineer",
       "startDate": "2010-02-01",
       "endDate": "2010-06-30"
@@ -118,6 +125,7 @@
       ],
       "summary": "Summer job following my internship here",
       "name": "National Aerospace Laboratory",
+      "url": "https://www.nlr.nl",
       "position": "Software Engineer",
       "startDate": "2009-07-02",
       "endDate": "2009-08-15"
@@ -129,6 +137,7 @@
       ],
       "summary": "Internship as part of my Bachelor's studies",
       "name": "National Aerospace Laboratory",
+      "url": "https://www.nlr.nl",
       "position": "Software Engineer",
       "startDate": "2008-08-02",
       "endDate": "2009-01-01"
