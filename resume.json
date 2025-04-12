@@ -45,8 +45,10 @@
         "PHP",
         "Java",
         "MySQL",
+        "PostgreSQL",
         "Redis",
         "ElasticSearch",
+        "DynamoDB",
         "JavaScript",
         "React.js",
         "HTML",
@@ -97,7 +99,7 @@
         "In the role as people manager, reponsible for hiring, performance reviews and mentoring of the engineering team",
         "Presented Squla’s use of AWS as a customer success story at the AWS Summit, Amsterdam (2015), in the keynote address of Amazon's CTO, Werner Vogels",
         "Head of Engineering since 2020, Manager since 2018",
-        "Ruby, Python, React.js, MySQL, Redis, ElasticSearch, GCP, AWS"
+        "Ruby, Python, React.js, MySQL, Redis, ElasticSearch, DynamoDB, GCP, AWS"
       ],
       "summary": "Joined as a developer when Squla was an early-stage start-up in 2010. From being a trusted individual contributor, I grew to lead small teams, in Squla until 2019, to my last role as Head of Engineering for StudyGo.",
       "name": "Futurewhiz",
