@@ -4,9 +4,9 @@
   },
   "basics": {
     "name": "Lex Brugman",
-    "label": "Software Professional",
+    "label": "Engineering Leader",
     "image": "https://avatars.githubusercontent.com/u/4648225?v=4",
-    "summary": "A software professional with experience in all aspects of software product development, including:\n- Strong experience building highly scalable, distributed web applications\n- Leading development teams (hiring, coaching, mentoring)\n- A huge affinity for operations and network engineering, cloud infra (AWS, GCP)",
+    "summary": "Engineering leader with a strong product and delivery mindset. Experienced in building and scaling distributed platforms, leading multi-team engineering organizations, and driving technical and organizational change. Combines hands-on technical depth with leadership in hiring, coaching, execution, and platform strategy.",
     "location": {
       "city": "Amsterdam",
       "countryCode": "NL"
@@ -26,57 +26,59 @@
   },
   "skills": [
     {
+      "name": "Leadership & Execution",
       "keywords": [
-        "Analytical thinking",
-        "Problem solving",
-        "Attention to detail",
-        "Patience",
-        "Reliablility",
-        "Perseverence",
-        "Mentoring",
-        "Coaching"
-      ],
-      "name": "Competencies"
+        "Engineering management",
+        "Team scaling",
+        "Hiring & performance management",
+        "Coaching & mentoring",
+        "Delivery management",
+        "Product & technology strategy",
+        "Stakeholder management"
+      ]
     },
     {
+      "name": "Technology",
       "keywords": [
         "Ruby",
         "Python",
         "PHP",
         "Java",
+        "JavaScript",
+        "React.js",
         "MySQL",
         "PostgreSQL",
         "Redis",
         "ElasticSearch",
         "DynamoDB",
-        "JavaScript",
-        "React.js",
         "HTML",
         "SCSS / Less / CSS"
-      ],
-      "name": "Technology"
+      ]
     },
     {
+      "name": "Infrastructure",
       "keywords": [
         "AWS",
         "GCP",
+        "Cloud architecture",
         "Linux",
-        "Windows"
-      ],
-      "name": "Infrastructure"
+        "Windows",
+        "Distributed systems",
+        "Scalability & reliability"
+      ]
     }
   ],
   "work": [
     {
       "highlights": [
-        "Representing engineering in the management team",
-        "Responsible for 20 engineers across 5 cross-functional teams (frontend, backend, QA)",
-        "Driving alignment and clarity across engineering through streamlined processes and structure",
-        "Implementing health metrics for Engineering in the form of DORA metrics",
-        "Mentoring and coaching team members, fostering growth and knowledge sharing",
-        "Supporting company-wide professionalisation, including performance management processes",
-        "Owning the technology roadmap and architecture of the platform",
-        "Python, React.js, PostgreSQL, Redis, AWS"
+        "Represented engineering in the management team and contributed to company-level strategy",
+        "Led ~20 engineers across 5 cross-functional teams (frontend, backend, QA)",
+        "Improved delivery predictability by introducing clearer structure, ownership, and processes",
+        "Implemented DORA metrics to drive engineering health and continuous improvement",
+        "Built and coached a stronger leadership layer within engineering",
+        "Professionalized performance management and development practices across the organization",
+        "Owned the technology roadmap and architectural direction of the platform",
+        "Stack: Python, React.js, PostgreSQL, Redis, AWS"
       ],
       "summary": "Drove engineering leadership, team development, and organizational maturity at Agriplace preparing for a critical growth stage.",
       "name": "Agriplace",
@@ -87,23 +89,12 @@
     },
     {
       "highlights": [
-        "Responsible for all technology related decisions (choosing the tech stack, design, development, and operations)",
-        "Jointly responsible for product roadmap",
-        "PHP, Java, MySQL, Redis, RouterOS, UniFi"
-      ],
-      "summary": "This job started as a hobby at around age 15, where I had developed an online CRM and inventory management application for my mother’s company. Over time, it has developed into its own business where the application is used by many other businesses around the country.",
-      "name": "Slim-IT",
-      "position": "Founder",
-      "startDate": "2003-01-01"
-    },
-    {
-      "highlights": [
-        "Responsible for the development and operations of the StudyGo platform",
+        "Owned development and operations of the StudyGo platform across multiple growth stages",
         "Part of the StudyGo Management Team, jointly shaping the product roadmap",
-        "In the role as people manager, reponsible for hiring, performance reviews and mentoring of the engineering team",
+        "In the role as people manager, responsible for hiring, performance reviews and mentoring of the engineering team",
         "Presented Squla’s use of AWS as a customer success story at the AWS Summit, Amsterdam (2015), in the keynote address of Amazon's CTO, Werner Vogels",
-        "Head of Engineering since 2020, Manager since 2018",
-        "Ruby, Python, React.js, MySQL, Redis, ElasticSearch, DynamoDB, GCP, AWS"
+        "Head of Engineering since 2020, Manager/Team lead since 2018",
+        "Stack: Ruby, Python, React.js, MySQL, Redis, ElasticSearch, DynamoDB, GCP, AWS"
       ],
       "summary": "Joined as a developer when Squla was an early-stage start-up in 2010. From being a trusted individual contributor, I grew to lead small teams, in Squla until 2019, to my last role as Head of Engineering for StudyGo.",
       "name": "Futurewhiz",
@@ -114,8 +105,19 @@
     },
     {
       "highlights": [
+        "Responsible for all technology related decisions (choosing the tech stack, design, development, and operations)",
+        "Jointly responsible for product roadmap",
+        "Stack: PHP, Java, MySQL, Redis, RouterOS, UniFi"
+      ],
+      "summary": "This job started as a hobby at around age 15, where I had developed an online CRM and inventory management application for my mother’s company. Over time, it has developed into its own business where the application is used by many other businesses around the country.",
+      "name": "Slim-IT",
+      "position": "Founder",
+      "startDate": "2003-01-01"
+    },
+    {
+      "highlights": [
         "Developed a flexible UI widget system for the MyM data visualisation tool",
-        "PHP, C++, MySQL, AWS"
+        "Stack: PHP, C++, MySQL, AWS"
       ],
       "summary": "Internship as part of my Bachelor's studies",
       "name": "Tizio B.V.",
@@ -127,7 +129,7 @@
     {
       "highlights": [
         "Designed and implemented a budgeting tool for Software Asset Management",
-        "PHP, MySQL"
+        "Stack: PHP, MySQL"
       ],
       "summary": "Summer job following my internship here",
       "name": "National Aerospace Laboratory",
@@ -139,7 +141,7 @@
     {
       "highlights": [
         "Designed and implemented an automated auditing tool for Software Asset Management",
-        "PHP, MySQL, MSSQL"
+        "Stack: PHP, MySQL, MSSQL"
       ],
       "summary": "Internship as part of my Bachelor's studies",
       "name": "National Aerospace Laboratory",
@@ -147,24 +149,6 @@
       "position": "Software Engineer",
       "startDate": "2008-08-02",
       "endDate": "2009-01-01"
-    },
-    {
-      "highlights": [
-      ],
-      "summary": "Holiday/Part-time job",
-      "name": "MyCom",
-      "position": "Technician and Sales",
-      "startDate": "2006-06-01",
-      "endDate": "2008-08-01"
-    },
-    {
-      "highlights": [
-      ],
-      "summary": "Holiday/Part-time job",
-      "name": "HCT Computers",
-      "position": "Technician and Sales",
-      "startDate": "2004-06-01",
-      "endDate": "2006-01-31"
     }
   ],
   "education": [
@@ -186,22 +170,22 @@
   "languages": [
     {
       "language": "Dutch",
-      "fluency": "Native speaker"
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Professional"
     }
   ],
   "interests": [
     {
-      "name": "Movies"
-    },
-    {
-      "name": "Computers"
-    },
-    {
       "name": "Cycling"
+    },
+    {
+      "name": "Technology"
+    },
+    {
+      "name": "Movies"
     }
   ]
 }
