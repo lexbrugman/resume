@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "private": true,
+  "scripts": {
+    "validate": "resume validate --resume resume.json",
+    "build:html": "resume export --resume resume.json --theme stackoverflow-ibic --format html docs/index.html",
+    "build:pdf": "resume export --resume resume.json --theme stackoverflow-ibic --format pdf docs/index.pdf",
+    "build": "npm run validate && npm run build:html && npm run build:pdf"
+  },
+  "dependencies": {
+    "jsonresume-theme-stackoverflow-ibic": "2.0.6",
+    "resume-cli": "3.7.3"
+  }
+}
