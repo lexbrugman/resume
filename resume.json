@@ -6,7 +6,7 @@
     "name": "Lex Brugman",
     "label": "Engineering Leader",
     "image": "https://avatars.githubusercontent.com/u/4648225?v=4",
-    "summary": "Engineering leader with a strong product and delivery mindset. Experienced in building and scaling distributed platforms, leading multi-team engineering organizations, and driving technical and organizational change. Combines hands-on technical depth with leadership in hiring, coaching, execution, and platform strategy.",
+    "summary": "Engineering leader with a strong product and delivery mindset. Experienced in building and scaling distributed platforms, leading multi-team engineering organizations, and driving technical and organizational change. Currently exploring how AI reshapes team size and delivery, building a new product with a three-person team. Combines hands-on technical depth with leadership in hiring, coaching, execution, and platform strategy.",
     "location": {
       "city": "Amsterdam",
       "countryCode": "NL"
@@ -38,6 +38,13 @@
       ]
     },
     {
+      "name": "AI & Product",
+      "keywords": [
+        "AI-native development",
+        "Rapid prototyping"
+      ]
+    },
+    {
       "name": "Technology",
       "keywords": [
         "Ruby",
@@ -49,10 +56,8 @@
         "MySQL",
         "PostgreSQL",
         "Redis",
-        "ElasticSearch",
-        "DynamoDB",
-        "HTML",
-        "SCSS / Less / CSS"
+        "Elasticsearch",
+        "DynamoDB"
       ]
     },
     {
@@ -62,13 +67,25 @@
         "GCP",
         "Cloud architecture",
         "Linux",
-        "Windows",
         "Distributed systems",
         "Scalability & reliability"
       ]
     }
   ],
   "work": [
+    {
+      "highlights": [
+        "Part of a three-person team (design, product, tech) where everyone works across roles, using AI as a core part of how the team builds and operates",
+        "Responsible for all technology decisions, from architecture to delivery and operations",
+        "Close contact with teachers, with fast iteration based on their feedback",
+        "Stack: Python, React.js, MySQL, AWS"
+      ],
+      "summary": "Returned to Futurewhiz to build a new platform for teachers from scratch, as an experiment in how much a minimal team can deliver with AI.",
+      "name": "Futurewhiz",
+      "url": "https://www.futurewhiz.com",
+      "position": "Technical Lead (Contract)",
+      "startDate": "2026-03-23"
+    },
     {
       "highlights": [
         "Represented engineering in the management team and contributed to company-level strategy",
@@ -80,7 +97,7 @@
         "Owned the technology roadmap and architectural direction of the platform",
         "Stack: Python, React.js, PostgreSQL, Redis, AWS"
       ],
-      "summary": "Drove engineering leadership, team development, and organizational maturity at Agriplace preparing for a critical growth stage.",
+      "summary": "Drove engineering leadership, team development, and organizational maturity as Agriplace prepared for a critical growth stage.",
       "name": "Agriplace",
       "url": "https://www.agriplace.com",
       "position": "Head of Engineering",
@@ -91,12 +108,12 @@
       "highlights": [
         "Owned development and operations of the StudyGo platform across multiple growth stages",
         "Part of the StudyGo Management Team, jointly shaping the product roadmap",
-        "In the role as people manager, responsible for hiring, performance reviews and mentoring of the engineering team",
-        "Presented Squla’s use of AWS as a customer success story at the AWS Summit, Amsterdam (2015), in the keynote address of Amazon's CTO, Werner Vogels",
+        "People manager, responsible for hiring, performance reviews and mentoring of the engineering team",
         "Head of Engineering since 2020, Manager/Team lead since 2018",
-        "Stack: Ruby, Python, React.js, MySQL, Redis, ElasticSearch, DynamoDB, GCP, AWS"
+        "Presented Squla’s use of AWS as a customer success story at the AWS Summit, Amsterdam (2015), in the keynote address of Amazon's CTO, Werner Vogels",
+        "Stack: Ruby, Python, React.js, MySQL, Redis, Elasticsearch, DynamoDB, GCP, AWS"
       ],
-      "summary": "Joined as a developer when Squla was an early-stage start-up in 2010. From being a trusted individual contributor, I grew to lead small teams, in Squla until 2019, to my last role as Head of Engineering for StudyGo.",
+      "summary": "Joined Squla as a developer in 2010 while it was an early-stage start-up. Grew from individual contributor to team lead, and later Head of Engineering for StudyGo.",
       "name": "Futurewhiz",
       "url": "https://www.futurewhiz.com",
       "position": "Head of Engineering - StudyGo",
@@ -128,27 +145,15 @@
     },
     {
       "highlights": [
-        "Designed and implemented a budgeting tool for Software Asset Management",
-        "Stack: PHP, MySQL"
-      ],
-      "summary": "Summer job following my internship here",
-      "name": "National Aerospace Laboratory",
-      "url": "https://www.nlr.nl",
-      "position": "Software Engineer",
-      "startDate": "2009-07-02",
-      "endDate": "2009-08-15"
-    },
-    {
-      "highlights": [
-        "Designed and implemented an automated auditing tool for Software Asset Management",
+        "Designed and implemented an automated auditing tool and a budgeting tool for Software Asset Management",
         "Stack: PHP, MySQL, MSSQL"
       ],
-      "summary": "Internship as part of my Bachelor's studies",
+      "summary": "Internship as part of my Bachelor's studies, followed by a summer job",
       "name": "National Aerospace Laboratory",
       "url": "https://www.nlr.nl",
       "position": "Software Engineer",
       "startDate": "2008-08-02",
-      "endDate": "2009-01-01"
+      "endDate": "2009-08-15"
     }
   ],
   "education": [
@@ -174,7 +179,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Fluent"
     }
   ],
   "interests": [
