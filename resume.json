@@ -50,7 +50,6 @@
         "Ruby",
         "Python",
         "PHP",
-        "Java",
         "JavaScript",
         "React.js",
         "MySQL",
@@ -66,6 +65,9 @@
         "AWS",
         "GCP",
         "Cloud architecture",
+        "Kubernetes",
+        "GitOps (Flux)",
+        "Infrastructure as code (OpenTofu / Terraform, AWS CDK)",
         "Linux",
         "Distributed systems",
         "Scalability & reliability"
@@ -123,10 +125,11 @@
     {
       "highlights": [
         "Responsible for all technology related decisions (choosing the tech stack, design, development, and operations)",
+        "Designed and operates the hosting platform: Kubernetes clusters (Talos on VMware ESXi) in two locations, managed through GitOps with Flux and OpenTofu, with cross-site replication and DNS-based failover",
         "Jointly responsible for product roadmap",
-        "Stack: PHP, Java, MySQL, Redis, RouterOS, UniFi"
+        "Stack: PHP, MySQL, Redis, Kubernetes, Talos, Flux, OpenTofu, VMware ESXi, AWS, RouterOS, UniFi"
       ],
-      "summary": "This job started as a hobby at around age 15, where I had developed an online CRM and inventory management application for my mother’s company. Over time, it has developed into its own business where the application is used by many other businesses around the country.",
+      "summary": "Started at age 15 as a hobby project: an online CRM and inventory management application for my mother’s company. It has since grown into a business of its own, with the application used by businesses across the country.",
       "name": "Slim-IT",
       "position": "Founder",
       "startDate": "2003-01-01"
