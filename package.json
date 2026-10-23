@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "jsonresume-theme-stackoverflow-ibic": "2.0.6",
-    "resume-cli": "3.8.2"
+    "resume-cli": "3.8.3"
   }
 }
